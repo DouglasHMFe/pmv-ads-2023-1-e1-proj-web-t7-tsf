@@ -50,7 +50,7 @@ A Página Cadastro Psicólogos apresenta um formulário requerendo informações
 
 ### Instruções de Acesso
 1. Abra um navegador de internet e informe a seguinte URL: http/;
-2. A Pagina de Cadastro para Psicólogos possui um formulário para cadastro de Psicólogos.
+2. A Pagina de Cadastro para Psicólogos possui um formulário para cadastro dos Psicólogos.
 
 
 

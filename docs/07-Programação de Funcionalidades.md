@@ -12,6 +12,7 @@ Na Home Page está claro o propósito do site: "Certos sentimentos inesperados s
 
 ### Requisitos Atendidos
 1. RF-01
+2. RF-05
 
 ### Artefatos da funcionalidade
 1. index.html
